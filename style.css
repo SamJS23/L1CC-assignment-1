@@ -3,4 +3,15 @@ background-color: brown;
 color:white;
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.identity{
+text-align: center;
+}
+img{
+vertical-align: middle;
+}
+.sosmed{
+text-align: center;
+}
+fieldset{ 
+margin: 10px;
+}
